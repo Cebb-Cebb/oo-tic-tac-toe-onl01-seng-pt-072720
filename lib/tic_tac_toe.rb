@@ -4,7 +4,7 @@ class TicTacToe
   
   
   def initialize
-    new_array = [(9)]
+    @board
     
   end 
   
